@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0546147.chunk.css",
-    "main.js": "/static/js/main.af4d5a41.chunk.js",
-    "main.js.map": "/static/js/main.af4d5a41.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7596dfb5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7596dfb5.js.map",
-    "static/css/2.93b3b32d.chunk.css": "/static/css/2.93b3b32d.chunk.css",
-    "static/js/2.ef47a882.chunk.js": "/static/js/2.ef47a882.chunk.js",
-    "static/js/2.ef47a882.chunk.js.map": "/static/js/2.ef47a882.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d691150e02f4c1c7491c783e9711d2ea.js": "/precache-manifest.d691150e02f4c1c7491c783e9711d2ea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.93b3b32d.chunk.css.map": "/static/css/2.93b3b32d.chunk.css.map",
-    "static/css/main.f0546147.chunk.css.map": "/static/css/main.f0546147.chunk.css.map",
-    "static/js/2.ef47a882.chunk.js.LICENSE.txt": "/static/js/2.ef47a882.chunk.js.LICENSE.txt"
+    "main.css": "/deploy-daily-ideas-book/static/css/main.f0546147.chunk.css",
+    "main.js": "/deploy-daily-ideas-book/static/js/main.64b18936.chunk.js",
+    "main.js.map": "/deploy-daily-ideas-book/static/js/main.64b18936.chunk.js.map",
+    "runtime-main.js": "/deploy-daily-ideas-book/static/js/runtime-main.f9c1c8a6.js",
+    "runtime-main.js.map": "/deploy-daily-ideas-book/static/js/runtime-main.f9c1c8a6.js.map",
+    "static/css/2.93b3b32d.chunk.css": "/deploy-daily-ideas-book/static/css/2.93b3b32d.chunk.css",
+    "static/js/2.9d9165a5.chunk.js": "/deploy-daily-ideas-book/static/js/2.9d9165a5.chunk.js",
+    "static/js/2.9d9165a5.chunk.js.map": "/deploy-daily-ideas-book/static/js/2.9d9165a5.chunk.js.map",
+    "index.html": "/deploy-daily-ideas-book/index.html",
+    "precache-manifest.2f33fc51798d7593cfdaf7bf905e0bb3.js": "/deploy-daily-ideas-book/precache-manifest.2f33fc51798d7593cfdaf7bf905e0bb3.js",
+    "service-worker.js": "/deploy-daily-ideas-book/service-worker.js",
+    "static/css/2.93b3b32d.chunk.css.map": "/deploy-daily-ideas-book/static/css/2.93b3b32d.chunk.css.map",
+    "static/css/main.f0546147.chunk.css.map": "/deploy-daily-ideas-book/static/css/main.f0546147.chunk.css.map",
+    "static/js/2.9d9165a5.chunk.js.LICENSE.txt": "/deploy-daily-ideas-book/static/js/2.9d9165a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7596dfb5.js",
+    "static/js/runtime-main.f9c1c8a6.js",
     "static/css/2.93b3b32d.chunk.css",
-    "static/js/2.ef47a882.chunk.js",
+    "static/js/2.9d9165a5.chunk.js",
     "static/css/main.f0546147.chunk.css",
-    "static/js/main.af4d5a41.chunk.js"
+    "static/js/main.64b18936.chunk.js"
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deploy-daily-ideas-book/static/css/main.f0546147.chunk.css",
+    "main.js": "/deploy-daily-ideas-book/static/js/main.590680c6.chunk.js",
+    "main.js.map": "/deploy-daily-ideas-book/static/js/main.590680c6.chunk.js.map",
+    "runtime-main.js": "/deploy-daily-ideas-book/static/js/runtime-main.f9c1c8a6.js",
+    "runtime-main.js.map": "/deploy-daily-ideas-book/static/js/runtime-main.f9c1c8a6.js.map",
+    "static/css/2.93b3b32d.chunk.css": "/deploy-daily-ideas-book/static/css/2.93b3b32d.chunk.css",
+    "static/js/2.20b7a480.chunk.js": "/deploy-daily-ideas-book/static/js/2.20b7a480.chunk.js",
+    "static/js/2.20b7a480.chunk.js.map": "/deploy-daily-ideas-book/static/js/2.20b7a480.chunk.js.map",
+    "index.html": "/deploy-daily-ideas-book/index.html",
+    "precache-manifest.88453cce74bbf9c4985b34d70238a4b9.js": "/deploy-daily-ideas-book/precache-manifest.88453cce74bbf9c4985b34d70238a4b9.js",
+    "service-worker.js": "/deploy-daily-ideas-book/service-worker.js",
+    "static/css/2.93b3b32d.chunk.css.map": "/deploy-daily-ideas-book/static/css/2.93b3b32d.chunk.css.map",
+    "static/css/main.f0546147.chunk.css.map": "/deploy-daily-ideas-book/static/css/main.f0546147.chunk.css.map",
+    "static/js/2.20b7a480.chunk.js.LICENSE.txt": "/deploy-daily-ideas-book/static/js/2.20b7a480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9c1c8a6.js",
+    "static/css/2.93b3b32d.chunk.css",
+    "static/js/2.20b7a480.chunk.js",
+    "static/css/main.f0546147.chunk.css",
+    "static/js/main.590680c6.chunk.js"
+  ]
+}
